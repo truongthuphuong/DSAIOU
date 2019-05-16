@@ -1,5 +1,0 @@
-x =input("Nhập vào các giá trị:")
-list = x.split(",")
-tuple = tuple(list)
-print(list)
-print(tuple)
