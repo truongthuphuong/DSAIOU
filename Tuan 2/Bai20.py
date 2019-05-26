@@ -5,6 +5,8 @@ tong_tien = 0
 tien_gui = 0
 tien_rut = 0
 
+print("Neu gui tien nhap D so tien.")
+print("Neu rut tien nhap W so tien.")
 print("Nhap vao tien gui va tien rut: ")
 
 while True:
