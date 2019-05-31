@@ -6,7 +6,6 @@ class InputOutString(object):
        self.s = input("Nhập chuỗi:")
    def printString(self):
        print (self.s.upper())
-
 strObj = InputOutString()
 strObj.getString()
 strObj.printString()
