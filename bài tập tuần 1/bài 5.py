@@ -4,7 +4,6 @@ class InputOutString(object):
 
    def getString(self):
        self.s = input("Nhập chuỗi:")
-# Code by Quantrimang.com
    def printString(self):
        print (self.s.upper())
 
