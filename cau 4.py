@@ -1,0 +1,5 @@
+x =input('nhap chuoi:')
+list=x.split(',')
+tuple=tuple(list)
+print(list)
+print(tuple)
